@@ -1,0 +1,1 @@
+C:/wamp/www/Magento2.1.6/vendor/magento/module-tax/view/frontend/web/js/view/checkout/minicart/subtotal/totals.js

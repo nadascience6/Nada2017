@@ -1,0 +1,1 @@
+C:/wamp/www/Magento2.1.6/lib/web/jquery/jquery-ui-1.9.2.js
